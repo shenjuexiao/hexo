@@ -1,0 +1,123 @@
+1，Windows 8.1 with Update（含Update 3的8.1）
+下载地址： http://pan.baidu.com/s/1dDeW8wT 密码: khzb
+Windows 8.1 with Update (multiple editions) (x86) - DVD (English)
+文件名：en_windows_8.1_with_update_x86_dvd_6051550.iso
+SHA1：C7FA828E01E98B601E0ACA8019F1CB223EB23223
+
+Windows 8.1 with Update (multiple editions) (x64) - DVD (English)
+文件名：en_windows_8.1_with_update_x64_dvd_6051480.iso
+SHA1：A8B5DF0B0816280AE18017BC4B119C77B6C6EB79
+
+Windows 8.1 Pro VL with Update (x86) - DVD (English)
+文件名：en_windows_8.1_pro_vl_with_update_x86_dvd_6050918.iso
+SHA1：E46F44CD74F812EC3FE2E854317A088E85322A68
+
+Windows 8.1 Pro VL with Update (x64) - DVD (English)
+文件名：en_windows_8.1_pro_vl_with_update_x64_dvd_6050880.iso
+SHA1：962A1D890987B5877469433928B8C8B8A3E945CD
+
+Windows 8.1 Enterprise with Update (x86) - DVD (English)
+文件名：en_windows_8.1_enterprise_with_update_x86_dvd_6050710.iso
+SHA1：584A9AD7E2BB3D7E189ADCFBA44A497CC9155937
+
+Windows 8.1 Enterprise with Update (x64) - DVD (English)
+文件名：en_windows_8.1_enterprise_with_update_x64_dvd_6054382.iso
+SHA1：B7DD748446D89B9449A160CDC24BD282989BBD96
+
+Windows 8.1 with Update (multiple editions) (x86) - DVD (Chinese-Simplified)
+文件名：cn_windows_8.1_with_update_x86_dvd_6051523.iso
+SHA1：ABBF814846C425C88910B011BC9D3D3C77932056
+
+Windows 8.1 with Update (multiple editions) (x64) - DVD (Chinese-Simplified)
+文件名：cn_windows_8.1_with_update_x64_dvd_6051473.iso
+SHA1：9A85EAC2D20446E3E086BF57A7DFC8832FB3BA56
+
+Windows 8.1 Pro VL with Update (x86) - DVD (Chinese-Simplified)
+文件名：cn_windows_8.1_pro_vl_with_update_x86_dvd_6050910.iso
+SHA1：9559E5FB616F8E5F25BAEBF64312AA5B99383771
+
+Windows 8.1 Pro VL with Update (x64) - DVD (Chinese-Simplified)
+文件名：cn_windows_8.1_pro_vl_with_update_x64_dvd_6050873.iso
+SHA1：15F67116E6616A70B89EE0079B34E64635FBD8A0
+
+Windows 8.1 Enterprise with Update (x86) - DVD (Chinese-Simplified)
+文件名：cn_windows_8.1_enterprise_with_update_x86_dvd_6050645.iso
+SHA1：B1FD75ADFC52550C3E72DB02C8AFB456D404964A
+
+Windows 8.1 Enterprise with Update (x64) - DVD (Chinese-Simplified)
+文件名：cn_windows_8.1_enterprise_with_update_x64_dvd_6050374.iso
+SHA1：0C1EE95EBB1714B3EE8453F840DF8FCD41B0F766
+
+Windows 8.1 Language Pack with Update (x86) - DVD (Multiple Languages)
+文件名：mu_windows_8.1_language_pack_with_update_x86_dvd_6066964.iso
+SHA1：B6EAC4C1F57493C5B6F67A20A214BF4B0B62BF59
+
+Windows 8.1 Language Pack with Update (x64) - DVD (Multiple Languages)
+文件名：mu_windows_8.1_language_pack_with_update_x64_dvd_6066963.iso
+SHA1：70940468031652C3E7384AB92D4F7969FBF5A004
+
+2，Windows Server 2012 R2 with Update（含update 3的服务器版）
+下载地址：http://pan.baidu.com/s/1dDpfUhV 密码: b71u
+Windows Server 2012 R2 with Update (x64) - DVD (English)
+文件名：en_windows_server_2012_r2_with_update_x64_dvd_6052708.iso
+SHA1：865494E969704BE1C4496D8614314361D025775E
+
+Windows Server 2012 R2 VL with Update (x64) - DVD (English)
+文件名：en_windows_server_2012_r2_vl_with_update_x64_dvd_6052766.iso
+SHA1：247EAEE5628850A41F0C51471656AAFB2492EA08
+
+Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation with Update (x64) - DVD (English)
+文件名：
+en_windows_storage_server_2012_r2_windows_server_2012_r2_foundation_with_update_x64_dvd_6052810.iso
+SHA1：C1B62327A36FA4F25A3336246B7D963B086AA140
+
+Windows Server 2012 R2 with Update (x64) - DVD (Chinese-Simplified)
+文件名：cn_windows_server_2012_r2_with_update_x64_dvd_6052725.iso
+SHA1：82292FA197E6C9DD9AF8F7E68E7A79A5DA1DDA2B
+
+Windows Server 2012 R2 VL with Update (x64) - DVD (Chinese-Simplified)
+文件名：cn_windows_server_2012_r2_vl_with_update_x64_dvd_6052729.iso
+SHA1：5E88BF62773D4867CF904AF94F66EEA2062E35E4
+
+Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation with Update (x64) - DVD (Chinese-Simplified)
+文件名：
+cn_windows_storage_server_2012_r2_windows_server_2012_r2_foundation_with_update_x64_dvd_6052783.iso
+SHA1：6DD7EE28950A4E302ADF79FF80D0A0F08090B729
+
+Windows Server 2012 R2 Language Pack with Update (x64) - DVD (Multiple Languages)
+文件名：mu_windows_server_2012_r2_language_pack_with_update_x64_dvd_6066969.iso
+SHA1：F1FFAB14AE2CB0253DEB43D2F4F1CF2D2AB7AD9F
+
+3，Windows Embedded 8.1 Industry with Update（含Update 3的嵌入式版）
+下载地址：http://pan.baidu.com/s/1bnk0ran 密码: thsc
+Windows Embedded 8.1 Industry Pro with Update (x86) - DVD (English)
+文件名：en_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052123.iso
+SHA1：B30DAAC72EC94352D3CE8544DC6FDA83E017A33D
+
+Windows Embedded 8.1 Industry Pro with Update (x64) - DVD (English)
+文件名：en_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052086.iso
+SHA1：DCD10322CB20A98D40ED558BB15CADB025DF98C9
+
+Windows Embedded 8.1 Industry Enterprise with Update (x64) - DVD (English)
+文件名：en_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052160.iso
+SHA1：8815ADCB942302D02484469F6EE1FAB477BB19E3
+
+Windows Embedded 8.1 Industry Enterprise with Update (x86) - DVD (English)
+文件名：en_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052252.iso
+SHA1：54B5472A393AB0059455F90D1DDC48A47E87A3DD
+
+Windows Embedded 8.1 Industry Pro with Update (x86) - DVD (Chinese-Simplified)
+文件名：cn_windows_embedded_8.1_industry_pro_with_update_x86_dvd_6052116.iso
+SHA1：A24A026F921A136F7250074A46B707DFE77B1265
+
+Windows Embedded 8.1 Industry Pro with Update (x64) - DVD (Chinese-Simplified)
+文件名：cn_windows_embedded_8.1_industry_pro_with_update_x64_dvd_6052079.iso
+SHA1：16BA0B2975367D1D2C6154727BFAFBF2ECFBE4E5
+
+Windows Embedded 8.1 Industry Enterprise with Update (x86) - DVD (Chinese-Simplified)
+文件名：cn_windows_embedded_8.1_industry_enterprise_with_update_x86_dvd_6052218.iso
+SHA1：324FA295ED22EE25F0D78D1D33CFF1ADBB13C46A
+
+Windows Embedded 8.1 Industry Enterprise with Update (x64) - DVD (Chinese-Simplified)
+文件名：cn_windows_embedded_8.1_industry_enterprise_with_update_x64_dvd_6052153.iso
+SHA1：A1CD6AD76EF2E619FECCB8077FFEC643E98B26B2
