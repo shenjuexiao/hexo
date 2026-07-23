@@ -189,8 +189,8 @@ ignore:
 ## Themes: https://hexo.io/themes/
 ## 当前主题名称
 ## 当前主题名称，值为false时禁用主题
-##theme: landscape
-theme: stellar
+theme: landscape
+## theme: stellar
 ## 主题的配置文件
 ## 主题的配置文件。 在这里放置的配置会覆盖主题目录下的 _config.yml 中的配置
 ## theme_config:
