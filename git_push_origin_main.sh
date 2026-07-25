@@ -11,7 +11,7 @@ git remote set-url --add origin git@gitee.com:shenjuexiao/hexo.git
 git add .
 
 # 提交更改
-git commit -m "hexojs/hexo-starter"
+git commit -m "$(date +%Y%m%d)"
 
 # 推送到远程 main 分支
 git push origin main
