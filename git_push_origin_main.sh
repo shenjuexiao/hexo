@@ -1,5 +1,6 @@
-# 20260723
-#!/bin/bash
+# git_push_origin_main.sh
+# github.com/shenjuexiao
+# 20260726
 
 # 进入项目目录
 # cd hexo
