@@ -1,0 +1,213 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# 2026-07-01
+## https://hexo.io/zh-cn/docs/configuration
+
+# Site
+## 网站标题（左上角）
+title: 神觉晓
+## 网站副标题（左上角）
+subtitle: shenjuexiao
+## 网站描述
+description: ''
+## 网站的关键词，支持多个关键词
+keywords: ''
+## 您的名字（左下角）
+author: shenjuexiao
+## 联系邮箱
+## email: 
+## 网站使用的语言：en，zh-Hans，zh-CN
+## 网站使用的语言，使用2个字母的ISO-639-1代码，或它的变体，默认为en
+language: zh-CN
+## 网站时区：America/New_York，Japan，UTC，Asia/Shanghai
+## 网站时区，Hexo默认使用您电脑的时区，请参考时区列表进行设置，如America/New_York，Japan和UTC 
+## 一般的，对于中国大陆地区可以使用Asia/Shanghai
+timezone: Asia/Shanghai
+
+# URL
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+## 网址, 必须以http://或https://开头
+url: https://shenjuexiao.com
+## 网站根目录
+## root:
+## 文章的永久链接格式
+## https://hexo.io/zh-cn/docs/permalinks
+## permalink: :year/:month/:day/:title/
+permalink: :year/:title/
+## 永久链接中各部分的默认值
+permalink_defaults:
+## 改写permalink的值来美化URL
+pretty_urls:
+  ### Set to false to remove trailing 'index.html' from permalinks
+  ### 是否在永久链接中保留尾部的index.html，设置为false时去除
+  trailing_index: true
+  ### Set to false to remove trailing '.html' from permalinks
+  ### 是否在永久链接中保留尾部的.html，设置为false时去除（对尾部的 index.html无效）
+  trailing_html: true
+
+# Directory
+## 资源文件夹
+## Source文件夹存储内容的位置
+source_dir: source
+## 公共文件夹
+## Public文件夹生成静态站点的位置
+public_dir: public
+## 标签文件夹
+tag_dir: tags
+## 归档文件夹
+archive_dir: archives
+## 分类文件夹
+category_dir: categories
+## Include_code文件夹，source_dir下的子目录
+code_dir: downloads/code
+## 国际化（i18n）文件夹
+i18n_dir: :lang
+## 跳过指定文件的渲染 沙月ふみの
+## 匹配到的文件将会被不做改动地复制到public目录中，您可使用glob表达式来匹配路径
+skip_render:
+
+# Writing
+## File name of new posts
+## 新文章的文件名称
+new_post_name: :title.md 
+## 预设布局
+default_layout: post
+## 在中文和英文之间加入空格
+auto_spacing: false
+## Transform title into titlecase
+## 把标题转换为title case
+titlecase: false
+## 在新标签中打开链接
+external_link:
+  ### Open external links in new tab
+  ### 在新标签中打开链接
+  enable: true
+  ### Apply to the whole site
+  ### 对整个网站（site）生效或仅对文章（post）生效
+  field: site
+  ### 需要排除的域名
+  ### 需要排除的域名，主域名和子域名如www需分别配置
+  exclude: ''
+## 把文件名称转换为（1）小写或（2）大写
+## 设置为1，将文件名转换为小写形式；设置为2，将文件名转换为大写形式
+filename_case: 0
+## 显示草稿
+render_drafts: false
+## 启用资源文件夹
+post_asset_folder: false
+## 把链接改为与根目录的相对位址
+relative_link: false
+## 显示未来的文章
+future: true
+## 代码块的设置
+## 代码块的设置, 请参考代码高亮进行设置
+## https://hexo.io/zh-cn/docs/syntax-highlight
+syntax_highlighter: highlight.js
+## https://hexo.io/zh-cn/docs/syntax-highlight#Highlight-js
+## 代码块的设置，请参考Highlight.js进行设置
+highlight:
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+## 代码块的设置，请参考PrismJS进行设置
+## https://hexo.io/zh-cn/docs/syntax-highlight#PrismJS
+prismjs:
+  preprocess: true
+  line_number: true
+  tab_replace: ''
+  
+# Home page setting
+# path: Root path for your blogs index page. (default = '')
+# per_page: Posts displayed per page. (0 = disable pagination)
+# order_by: Posts order. (Order by date descending by default)
+## 生成帖子归档，由hexo-generator-index驱动
+index_generator:
+  ### 博客索引页面的根路径
+  path: ''
+  ### 每页显示帖子数
+  per_page: 10
+  ### 帖子排列顺序，默认情况下按日期降序(从新到旧)。
+  order_by: -date
+  ### URL 格式，请参阅下面的分页设置
+  ### pagination_dir:
+
+# Category & Tag
+## 默认分类
+default_category: uncategorized
+## 分类别名
+category_map:
+## 分类别名
+tag_map:
+
+
+# Metadata elements
+## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
+meta_generator: true
+
+# Date / Time format
+## Hexo uses Moment.js to parse and display date
+## You can customize the date format as defined in
+## http://momentjs.com/docs/#/displaying/format/
+## 日期格式
+date_format: YYYY-MM-DD
+## 时间格式
+time_format: HH:mm:ss
+## updated_option supports 'mtime', 'date', 'empty'
+## 当Front Matter中没有指定updated时updated的取值
+updated_option: 'mtime'
+
+# Pagination
+## Set per_page to 0 to disable pagination
+## per_page: 10
+## 每页显示的文章量（0=关闭分页功能）
+## 每页显示的帖子数，0关闭分页功能
+per_page: 2
+## 分页目录
+## URL格式
+pagination_dir: page
+
+# Include / Exclude file(s)
+## include:/exclude: options only apply to the 'source/' folder
+# 包括或不包括目录和文件
+## Hexo默认会不包括source/下的文件和文件夹
+## （包括名称以下划线和.开头的文件和文件夹，Hexo的_posts和_data等目录除外）
+##  通过设置此字段将使Hexo处理他们并将它们复制到source目录下
+## 包含隐藏文件（包括名称以下划线开头的文件/文件夹，* 除外）
+include:
+## Hexo不包括source/下的这些文件和目录
+## 排除文件或文件夹
+exclude:
+## 忽略文件/文件夹
+ignore:
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+## 当前主题名称
+## 当前主题名称，值为false时禁用主题
+theme: landscape
+## theme: stellar
+## 主题的配置文件
+## 主题的配置文件。 在这里放置的配置会覆盖主题目录下的 _config.yml 中的配置
+## theme_config:
+
+# Deployment
+## Docs: https://hexo.io/docs/one-command-deployment
+## 部署部分的设置
+deploy:
+  type: git
+  ### 目标存储库的URL
+  repo: git@github.com:shenjuexiao/shenjuexiao.github.io.git
+  ### 分支名称
+  branch: main
+  ### 自定义提交信息
+  ### message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"
+  ### 可选的令牌值，用于认证repo，用$作为前缀从而从环境变量中读取令牌
+  ### token:
+## Meta generator标签
+## Meta generator标签，值为false时Hexo不会在头部插入该标签
+## meta_generator: false
