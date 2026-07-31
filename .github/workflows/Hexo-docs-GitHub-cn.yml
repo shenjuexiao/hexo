@@ -12,7 +12,8 @@ on:
   push:
     branches:
       # default branch
-      - main 
+      - main
+  workflow_dispatch:
 
 jobs:
   build:
